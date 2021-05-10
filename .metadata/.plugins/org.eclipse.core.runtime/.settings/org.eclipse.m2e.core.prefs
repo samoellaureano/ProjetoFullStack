@@ -1,0 +1,9 @@
+eclipse.m2.defaultRuntime=apache-maven-3.8.1
+eclipse.m2.downloadJavadoc=true
+eclipse.m2.runtimes=apache-maven-3.8.1
+eclipse.m2.runtimesNodes/apache-maven-3.8.1/location=C\:\\apache-maven-3.8.1
+eclipse.m2.runtimesNodes/apache-maven-3.8.1/type=EXTERNAL
+eclipse.m2.updateIndexes=true
+eclipse.m2.updateProjects=true
+eclipse.m2.userSettingsFile=C\:\\apache-maven-3.8.1\\conf\\settings.xml
+eclipse.preferences.version=1

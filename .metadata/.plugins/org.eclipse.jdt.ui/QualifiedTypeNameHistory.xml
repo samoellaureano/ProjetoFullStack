@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="org.apache.catalina.connector.Response"/>
+<fullyQualifiedTypeName name="javax.persistence.EntityManagerFactory"/>
+<fullyQualifiedTypeName name="javax.persistence.Persistence"/>
+<fullyQualifiedTypeName name="java.io.Serializable"/>
+<fullyQualifiedTypeName name="javax.persistence.EntityManager"/>
+<fullyQualifiedTypeName name="javax.persistence.Query"/>
+<fullyQualifiedTypeName name="br.com.util.UtilRest"/>
+<fullyQualifiedTypeName name="util.UtilRest"/>
+<fullyQualifiedTypeName name="br.com.dao.jpa.EmpresaJPADAO"/>
+<fullyQualifiedTypeName name="javax.ws.rs.core.Response.ResponseBuilder"/>
+<fullyQualifiedTypeName name="javax.ws.rs.core.Response"/>
+<fullyQualifiedTypeName name="org.codehaus.jackson.map.ObjectMapper"/>
+</qualifiedTypeNameHistroy>
