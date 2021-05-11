@@ -70,14 +70,14 @@ public class FornecedorRest extends UtilRest{
 	}
 	
 	@POST
-	@Path("/editFornecedor")
+	@Path("/editarFornecedor")
 	@Consumes("application/*")
 
-	public Response editFornecedor(String editFornecedor){
+	public Response editarFornecedor(String editarFornecedor){
 
 		try {
 
-			Fornecedor fornecedor = new ObjectMapper().readValue(editFornecedor,Fornecedor.class);
+			Fornecedor fornecedor = new ObjectMapper().readValue(editarFornecedor,Fornecedor.class);
 			FornecedorJPADAO fornecedorJpadao = new FornecedorJPADAO();
 			boolean	retorno = fornecedorJpadao.atualizar(fornecedor);
 
