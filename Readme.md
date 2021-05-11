@@ -11,7 +11,8 @@ Cadastro Front-end/Back-end
 * [Hibernate 3.0](https://hibernate.org/) - Framework utilizado para o mapeamento do Objeto-relacional.
 * [JPA 2.0](https://docs.spring.io/spring-data/jpa/docs/current/reference/html/#reference) - Framework de persistência para dados.
 * [Apache TomCat 9](http://tomcat.apache.org/) - Servidor WEB.
+* [Bootstrap v4.5.0](https://getbootstrap.com/) - Framework web com código-fonte aberto para desenvolvimento de componentes de interface e front-end.
 
 ## Autor
-* **Samoel Laureano Angélica** - *Trabalho Conclusão de Curso* - [@samoellaureano](https://github.com/samoellaureano)
+* **Samoel Laureano Angélica** - [@samoellaureano](https://github.com/samoellaureano)
 
